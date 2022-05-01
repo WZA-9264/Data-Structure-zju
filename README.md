@@ -1,2 +1,2 @@
 # Data_Structure
-Data_Structure_zju_spring2022_assignment
+spring2022_assignment
